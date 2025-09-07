@@ -1,1 +1,0 @@
-/home/wolfhigashi/dev/github/tiny-ptz/target/release/tiny-ptz: /home/wolfhigashi/dev/github/tiny-ptz/src/app.rs /home/wolfhigashi/dev/github/tiny-ptz/src/camera.rs /home/wolfhigashi/dev/github/tiny-ptz/src/main.rs /home/wolfhigashi/dev/github/tiny-ptz/src/ui.rs
