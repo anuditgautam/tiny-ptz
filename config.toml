@@ -1,0 +1,16 @@
+device = "/dev/video0"
+
+[pan]
+min = -468000
+max = 468000
+step = 30000
+
+[tilt]
+min = -324000
+max = 324000
+step = 30000
+
+[zoom]
+min = 0
+max = 100
+step = 10
